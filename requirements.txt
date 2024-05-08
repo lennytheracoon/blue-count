@@ -5,5 +5,5 @@ numpy
 roboflow
 inference 
 supervision
-opencv-python-headless
+opencv-python
 plotly
