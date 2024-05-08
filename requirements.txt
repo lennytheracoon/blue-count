@@ -1,0 +1,9 @@
+ultralytics
+streamlit
+pillow
+numpy
+roboflow
+inference 
+supervision
+opencv-python-headless
+plotly
